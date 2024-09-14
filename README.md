@@ -1,1 +1,2 @@
-# git_version
+# this is my first project
+# Im very excited
